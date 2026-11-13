@@ -1,0 +1,4 @@
+Context node IDs: [0, 1, 2, 3, 4]
+Number of context nodes: 5
+Few-shot ROC-AUC: 1.0000
+Top 10 predicted node IDs: [83, 82, 88, 87, 89, 81, 80, 84, 86, 85]

@@ -1,0 +1,4 @@
+Pseudo-normal context node IDs: [1, 61, 0, 11, 56]
+Number of pseudo-normal nodes: 5
+Zero-shot ROC-AUC: 1.0000
+Top 10 predicted node IDs: [83, 82, 88, 87, 84, 86, 80, 81, 89, 85]

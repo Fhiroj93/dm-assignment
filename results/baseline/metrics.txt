@@ -1,0 +1,3 @@
+Baseline ROC-AUC: 1.0000
+Top 10 predicted node IDs: [82, 83, 88, 87, 81, 89, 80, 84, 86, 85]
+Actual anomalous node IDs: [80, 81, 82, 83, 84, 85, 86, 87, 88, 89]

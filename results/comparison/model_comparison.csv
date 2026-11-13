@@ -1,0 +1,4 @@
+model,top_k,precision,recall,f1_score
+Baseline,10,1.0,1.0,1.0
+Few-shot,10,1.0,1.0,1.0
+Zero-shot,10,1.0,1.0,1.0

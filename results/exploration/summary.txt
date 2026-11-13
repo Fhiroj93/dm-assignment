@@ -1,0 +1,8 @@
+Graph Exploration Summary
+=========================
+Number of nodes: 90
+Number of edges: 336
+Average degree: 7.47
+Normal nodes: 80
+Anomalous nodes: 10
+Largest degree: 15

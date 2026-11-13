@@ -1,0 +1,6 @@
+Model Comparison
+=================
+
+Baseline: Precision=1.00, Recall=1.00, F1=1.00
+Few-shot: Precision=1.00, Recall=1.00, F1=1.00
+Zero-shot: Precision=1.00, Recall=1.00, F1=1.00
